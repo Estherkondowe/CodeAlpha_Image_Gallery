@@ -23,7 +23,8 @@ This is a simple Image Gallery created using **HTML**, **CSS**, and **JavaScript
 
 ##  Live Demo
 
-[🔗 Click here to view the live project](https://your-netlify-link.netlify.app)
+[🔗 Click here to view the live project](https://estherkondowe.github.io/CodeAlpha_Image_Gallery
+)
 
 ---
 
