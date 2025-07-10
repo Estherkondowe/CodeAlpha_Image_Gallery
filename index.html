@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esthers Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+     <h1 class="heading">Esthers Image Gallery</h1>
+    <div class="Gallery" >
+        <img src="images/beautiful-mountain.jpg" alt="Beautiful-mountain view" loading="lazy" height="300px" width="250px">
+        <img src="images/lake-surrounded-by-hills.jpg" alt="lake-surrounded-by-hills" loading="lazy" height="300px" width="250px" >
+        <img src="images/wetland-view.jpg" alt="wetland-view" loading="lazy" height="300px" width="250px">
+        <img src="images/waterfall.jpg" alt="waterfall" loading="lazy"height="300px" width="250px" >
+        <img src="images/river.jpg" alt="river view" loading="lazy" height="300px" width="250px" >
+        <img src="images/elephants.jpg" alt="river view" loading="lazy" height="300px" width="250px" >
+    </div>  
+    <div id="lightbox" class="hidden">
+        <span id="closeBtn">&times;</span>
+        <img id="lightboxImage" src="">
+       <div class="lightbox-buttons">
+        <button id="prevBtn">Prev</button>
+        <button id="nextBtn">Next</button>
+       </div> 
+  </div>
+        
+  <script src="script.js"></script>          
+</body>
+</html>
