@@ -1,29 +1,32 @@
-Image Gallery Project
+#  Image Gallery Project
 
-This is a simple Image Gallery created using HTML, CSS, and JavaScript as part of the internship tasks assigned by CodeAlpha. The gallery allows users to view images with basic navigation functionality.
+This is a simple Image Gallery created using **HTML**, **CSS**, and **JavaScript** as part of the internship tasks assigned by **CodeAlpha**. The gallery allows users to view images with basic navigation functionality.
 
-Features
+---
 
-Responsive image layout
+##  Features
 
-Interactive "Next" and "Previous" buttons
+- Responsive image layout  
+- Interactive **"Next"** and **"Previous"** buttons  
+- Stops navigating when images are finished  
+- Hover effects for enhanced UI
 
-Stops navigating when images are finished
+---
 
-Hover effects for enhanced UI
+##  Technologies Used
 
+- **HTML** – for structuring the web page  
+- **CSS** – for styling and layout  
+- **JavaScript** – for image navigation logic
 
-Technologies Used
+---
 
-HTML – for structuring the web page
+##  Live Demo
 
-CSS – for styling and layout
+[🔗 Click here to view the live project](https://your-netlify-link.netlify.app)
 
-JavaScript – for image navigation logic
+---
 
-Click here to view the link
-()
+## Developed by
 
-👩‍💻Developed by
-Esther Kondowe
-Intern @ CodeAlpha
+ **Esther Kondowe** – Intern @ CodeAlpha
